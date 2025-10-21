@@ -1,0 +1,6 @@
+id,ts,channel,resolved_by,intent,customer_id
+1,2025-10-10T12:00:00Z,bot,bot,reset_password,C001
+2,2025-10-10T12:05:00Z,web,self_service,reset_password,C002
+3,2025-10-10T12:10:00Z,web,agent,billing_issue,C003
+4,2025-10-10T12:20:00Z,bot,bot,reset_password,C004
+5,2025-10-10T12:30:00Z,web,agent,technical_issue,C005
