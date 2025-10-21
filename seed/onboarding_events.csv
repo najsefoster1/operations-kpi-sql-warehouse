@@ -1,0 +1,5 @@
+id,user_id,event,ts
+1,U001,start,2025-10-01T09:00:00Z
+2,U001,first_success,2025-10-02T14:00:00Z
+3,U002,start,2025-10-03T10:00:00Z
+4,U002,first_success,2025-10-05T11:00:00Z
